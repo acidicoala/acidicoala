@@ -1,5 +1,5 @@
 ## My Contribution Graph
-
+<!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output/pacman-contribution-graph.svg">
