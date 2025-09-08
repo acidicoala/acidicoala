@@ -1,0 +1,4 @@
+<profile version="1.0">
+  <option name="myName" value="acidicoala" />
+  <inspection_tool class="CppTooWideScopeInitStatement" enabled="false" level="HINT" enabled_by_default="false" />
+</profile>
